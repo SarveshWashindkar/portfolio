@@ -210,6 +210,9 @@ section{
     margin: 2rem 0;
     position: relative;
 }
+.btn-section a{
+    height: 100%;
+}
 .btn-section::before{
     content: "";
     position: absolute;
